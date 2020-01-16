@@ -16,4 +16,5 @@
 * npm install -D @babel/core babel-loader @babel/preset-env @babel/preset-react babel-plugin-transform-class-properties
 * npm i react react-dom prop-types (instala las dependencias)
 * npm i react react-dom prop-types (instala las dependencias)
+* npm i redux react-redux redux-thunk redux-devtools-extension
 * npm run dev (para correr el script que actualiza el webpack que esta configurado en el package.json)
