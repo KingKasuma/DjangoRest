@@ -8,6 +8,7 @@ __pycache__/
 local_settings.py
 db.sqlite
 media
+Pipfile.lock
 
 #### IDE and text editors ###
 .idea
