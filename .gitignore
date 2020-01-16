@@ -1,0 +1,14 @@
+node_modules
+
+### Django ####
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite
+media
+
+#### IDE and text editors ###
+.idea
+.vscode
